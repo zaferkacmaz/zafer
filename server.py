@@ -171,5 +171,4 @@ isci_olustur()
 is_olustur()
 
 
-def autogui():
     
