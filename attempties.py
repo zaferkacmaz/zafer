@@ -3,7 +3,7 @@ import subprocess
 import os
 
 
-host = "192.168.0.28"
+host = "###.###.#.##"
 port = 4444
 
 print("Start")
